@@ -29,8 +29,8 @@ git remote add origin <저장소 주소>
 ## commit하기
 * 특정 버전을 저장하는 것 = commit 한다
     - 특정 버전 = commit
-        - wording Directory : 프로젝트 디렉토리 자체
-        - staging area : 특정 버전으로 관리하고 싶은 파일들을 모아두는 장소
+        - Working Directory : 프로젝트 디렉토리 자체
+        - Staging Area : 특정 버전으로 관리하고 싶은 파일들을 모아두는 장소
         - Repository : 특정 시점의 staging area의 모습을 commit으로 남기면 commit들이 저장되는 영역
 
 ### commit 간 이동
