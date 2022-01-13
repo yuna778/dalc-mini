@@ -10,8 +10,8 @@
 
 * 초기 설정
 ```
-git config --global user.name "chan"
-git config --global user.email chanchan@gmail.com
+git config --global user.name "dalc"
+git config --global user.email dalc@gmail.com
 ```
 
 * 저장소 클론하기
